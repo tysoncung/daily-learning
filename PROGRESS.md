@@ -3,9 +3,9 @@
 ## 🔥 Current Streak: 3 days
 
 ## 📈 Statistics
-- **Total Contributions**: 5+ (1 PR merged, 1 repo created, multiple commits)
-- **PRs Opened**: 1
-- **PRs Merged**: 1 ✅
+- **Total Contributions**: 10+ (2 PRs merged, 1 pending, 1 repo created, multiple commits)
+- **PRs Opened**: 3
+- **PRs Merged**: 2 ✅
 - **Issues Resolved**: 0
 - **Documentation Improvements**: 1 (fedify)
 - **Days Active**: 3

@@ -34,14 +34,53 @@ Reference `notes/2025-09-12-example.md` for the canonical structure.
 - Daily learning notes
 - Documentation updates
 - Co-Authored-By lines
+- GitHub issue comments
+- Pull request comments
+- Code review comments
+- Any public GitHub interaction
 
 The git hook will block commits containing these references. If blocked, rewrite the commit message to be generic (e.g., "AI-assisted development" instead of "Claude Code").
 
+### Writing Style for Public Comments (GitHub Issues/PRs)
+**CRITICAL**: Comments must appear human-written to avoid detection as AI-generated.
+
+**Rules**:
+- Keep comments SHORT (1-3 sentences max)
+- NO emojis or icons (❌ 🚀 ✅ 📚 etc.)
+- Use casual language with occasional typos if natural
+- Avoid overly structured formatting (no bullet points unless necessary)
+- NO comprehensive lists or step-by-step guides
+- Write like you're quickly typing a response, not composing documentation
+- Use "I" statements: "I noticed...", "I think...", "I can fix..."
+- Skip pleasantries and filler words
+
+**Bad (AI-obvious)**:
+```
+Hello! 👋 I found several issues with this PR:
+
+1. ✅ The code works well
+2. ⚠️ Missing error handling
+3. 📝 Documentation needs updating
+
+Looking forward to your response! 🚀
+```
+
+**Good (Human-like)**:
+```
+Missing error handling on line 23. Also the docs should mention the timeout parameter.
+```
+
+OR
+
+```
+I can take a look at this. Probably just need to update the validation logic.
+```
+
 ### Commit Message Style
-- Use emoji prefixes: 📚 for learning updates, 🚀 for features, 🔧 for fixes
+- Use emoji prefixes sparingly: 📚 for learning updates, 🚀 for features, 🔧 for fixes
 - Keep messages concise and descriptive
 - Never include bot attributions or AI tool credits
-- Example: `📚 Learning updates: Days 13-14 (Sept 25, 30)`
+- Example: `Learning updates: Days 13-14 (Sept 25, 30)`
 
 ## Common Workflows
 

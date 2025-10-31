@@ -4,7 +4,7 @@
 
 ## 📈 Statistics
 - **Total Contributions**: 170+ (n8n-MCP demo, profile enhanced, repository optimizations)
-- **PRs Opened**: 12 (10 still active, tracking all)
+- **PRs Opened**: 14 (12 still active, tracking all)
 - **PRs Merged**: 2 ✅
 - **Issues Resolved**: 6 (link validation, platform engineering resources)
 - **Documentation Improvements**: 9 (architecture docs, presentations, troubleshooting guides)
@@ -84,29 +84,39 @@ Mo Tu We Th Fr Sa Su
 
 ## 🌟 Featured Contributions
 
-1. **tysoncung/n8n-mcp-demo** - Cross-platform workflow automation demo
+1. **just-a-job-app/jobseeker-analytics #634** - Accessibility improvements
+   - Status: Under Review
+   - Impact: Added descriptive alt text to 4 images for screen reader users
+   - Learning: Web accessibility standards, inclusive design practices
+
+2. **josharsh/md-pdf-md #6** - Documentation enhancement
+   - Status: Under Review
+   - Impact: Added 15 comprehensive use case examples across 5 categories
+   - Learning: Technical writing, documentation best practices
+
+3. **tysoncung/n8n-mcp-demo** - Cross-platform workflow automation demo
    - Status: Production-ready ✅
    - Impact: Complete demonstration of n8n-MCP integration with Docker
    - Technologies: n8n, Docker, FastAPI, Python, MCP
    - Documentation: README, ARCHITECTURE, PRESENTATION, TROUBLESHOOTING
    - Learning: Container orchestration, workflow automation, API design
 
-2. **tysoncung/awesome-ai-agents** - Curated AI agents resource list
+4. **tysoncung/awesome-ai-agents** - Curated AI agents resource list
    - Status: Published ✅
    - Impact: 50+ AI agent frameworks and tools for developers
    - Learning: AI agent ecosystem, LLM integration patterns
 
-3. **fedify-dev/fedify #425** - Pin Deno version to 2.4.5
+5. **fedify-dev/fedify #425** - Pin Deno version to 2.4.5
    - Status: Under Review
    - Impact: CI/CD consistency
    - Learning: GitHub Actions, version pinning
 
-4. **tysoncung/tysoncung** - Fixed GitHub Actions workflows
+6. **tysoncung/tysoncung** - Fixed GitHub Actions workflows
    - Status: Completed ✅
    - Impact: Automated profile updates now working
    - Learning: Git conflict resolution, retry logic, concurrent workflows
 
-5. **tysoncung/tysoncung.github.io** - Created portfolio website
+7. **tysoncung/tysoncung.github.io** - Created portfolio website
    - Status: Live ✅
    - Impact: Professional web presence
    - Learning: Responsive web design, GitHub Pages deployment

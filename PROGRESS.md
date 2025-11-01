@@ -85,50 +85,57 @@ Mo Tu We Th Fr Sa Su
 
 ## 🌟 Featured Contributions
 
-1. **pandas-dev/pandas #62935** - Documentation fix for tolerance parameter 🏆
+1. **apache/apisix #12720** - Made protocol_name optional in mqtt-proxy plugin 🏆🔥
+   - Status: Under Review
+   - Impact: **APACHE FOUNDATION PROJECT!** Fixed unnecessary configuration requirement
+   - Learning: Apache project contribution, Lua development, API Gateway architecture
+   - Significance: APISIX is a top-tier CNCF API Gateway project
+   - Multilingual: Updated both English and Chinese documentation
+
+2. **pandas-dev/pandas #62935** - Documentation fix for tolerance parameter 🏆
    - Status: Under Review
    - Impact: MAJOR LIBRARY CONTRIBUTION! Fixed API documentation inconsistency
    - Learning: Contributing to major open source projects, API documentation standards
    - Significance: pandas has 43M+ monthly downloads
 
-2. **just-a-job-app/jobseeker-analytics #634** - Accessibility improvements
+3. **just-a-job-app/jobseeker-analytics #634** - Accessibility improvements
    - Status: Under Review
    - Impact: Added descriptive alt text to 4 images for screen reader users
    - Learning: Web accessibility standards, inclusive design practices
 
-3. **josharsh/md-pdf-md #6** - Documentation enhancement
+4. **josharsh/md-pdf-md #6** - Documentation enhancement
    - Status: Under Review
    - Impact: Added 15 comprehensive use case examples across 5 categories
    - Learning: Technical writing, documentation best practices
 
-4. **tusharchou/local-data-platform #110** - Navigation improvements
+5. **tusharchou/local-data-platform #110** - Navigation improvements
    - Status: Under Review
    - Impact: Added Recipes and API Docs to navigation menu
    - Learning: Documentation site structure, MkDocs configuration
 
-5. **tysoncung/n8n-mcp-demo** - Cross-platform workflow automation demo
+6. **tysoncung/n8n-mcp-demo** - Cross-platform workflow automation demo
    - Status: Production-ready ✅
    - Impact: Complete demonstration of n8n-MCP integration with Docker
    - Technologies: n8n, Docker, FastAPI, Python, MCP
    - Documentation: README, ARCHITECTURE, PRESENTATION, TROUBLESHOOTING
    - Learning: Container orchestration, workflow automation, API design
 
-6. **tysoncung/awesome-ai-agents** - Curated AI agents resource list
+7. **tysoncung/awesome-ai-agents** - Curated AI agents resource list
    - Status: Published ✅
    - Impact: 50+ AI agent frameworks and tools for developers
    - Learning: AI agent ecosystem, LLM integration patterns
 
-7. **fedify-dev/fedify #425** - Pin Deno version to 2.4.5
+8. **fedify-dev/fedify #425** - Pin Deno version to 2.4.5
    - Status: Under Review
    - Impact: CI/CD consistency
    - Learning: GitHub Actions, version pinning
 
-8. **tysoncung/tysoncung** - Fixed GitHub Actions workflows
+9. **tysoncung/tysoncung** - Fixed GitHub Actions workflows
    - Status: Completed ✅
    - Impact: Automated profile updates now working
    - Learning: Git conflict resolution, retry logic, concurrent workflows
 
-9. **tysoncung/tysoncung.github.io** - Created portfolio website
+10. **tysoncung/tysoncung.github.io** - Created portfolio website
    - Status: Live ✅
    - Impact: Professional web presence
    - Learning: Responsive web design, GitHub Pages deployment

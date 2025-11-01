@@ -3,8 +3,8 @@
 ## 🔥 Current Streak: 15 days (Sept 11-15, 17-25, 30, Oct 25-26, 28)
 
 ## 📈 Statistics
-- **Total Contributions**: 180+ (n8n-MCP demo, nblm-rs doctor command, CDK issue comments)
-- **PRs Opened**: 16 (14 still active, tracking all)
+- **Total Contributions**: 185+ (n8n-MCP demo, nblm-rs doctor command, tldr bun docs, CDK comments)
+- **PRs Opened**: 19 (17 still active, tracking all)
 - **PRs Merged**: 2 ✅
 - **Issues Resolved**: 6 (link validation, platform engineering resources)
 - **Issue Comments**: 2 (AWS CDK S3 replication, ECS digest handling)

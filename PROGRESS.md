@@ -1,18 +1,18 @@
 # 📊 Progress Dashboard
 
-## 🔥 Current Streak: 17 days (Sept 11-15, 17-25, 30, Oct 25-26, 28, Nov 4-5)
+## 🔥 Current Streak: 18 days (Sept 11-15, 17-25, 30, Oct 25-26, 28, Nov 4-6)
 
 ## 📈 Statistics
-- **Total Contributions**: 220+ (Prisma JSDoc, awesome lists creation, ccusage conflict resolution)
-- **PRs Opened**: 21 (19 still active, 2 new: Prisma #28425, sindresorhus/awesome #3732)
+- **Total Contributions**: 230+ (nblm-rs Phase 2, documentation enhancements, formula fixes)
+- **PRs Opened**: 25 (23 still active, 4 new: nblm-rs #91, pr-cleaner-ai #17, ragas #2405, kubestellar #109)
 - **PRs Merged**: 2 ✅
 - **Issues Resolved**: 6 (link validation, platform engineering resources)
 - **Issue Comments**: 2 (AWS CDK S3 replication, ECS digest handling)
-- **Documentation Improvements**: 9 (architecture docs, presentations, troubleshooting guides)
+- **Documentation Improvements**: 13 (architecture docs, troubleshooting guides, formula corrections, Windows installation)
 - **New Projects Created**: 4 (n8n-mcp-demo, awesome-ai-agents, awesome-biostatistics, awesome-n8n)
-- **Days Active**: 16
+- **Days Active**: 18
 - **Repository Topics Added**: 80+ (across 23 repositories)
-- **Stars Given**: 476+ (AI agents, LLMs, TypeScript, Rust, CDK, infrastructure)
+- **Stars Given**: 482+ (AI agents, LLMs, TypeScript, Rust, CDK, infrastructure, vllm, ClickHouse)
 - **Followers Gained**: +47 total (28 → 75)
 
 ## 🏆 Achievements
@@ -52,7 +52,7 @@ Mo Tu We Th Fr Sa Su
 ```
 Mo Tu We Th Fr Sa Su
                 1  2  3
-[4] [5]  6  7  8  9 10
+[4] [5] [6]  7  8  9 10
 11 12 13 14 15 16 17
 18 19 20 21 22 23 24
 25 26 27 28 29 30
@@ -99,7 +99,36 @@ Mo Tu We Th Fr Sa Su
 
 ## 🌟 Featured Contributions
 
-1. **tysoncung/awesome-biostatistics** - Comprehensive biostatistics resource list 🏆⭐
+1. **K-dash/nblm-rs #91** - Phase 2: API connectivity check for doctor command 🏆⭐
+   - Status: Under Review (Nov 6, 2025)
+   - Impact: **RUST PROJECT!** Implemented comprehensive API diagnostics with error categorization
+   - Learning: Rust async patterns, error handling, API design, diagnostic tooling
+   - Significance: Completes Phase 2 requirements for NotebookLM CLI diagnostics
+   - Details: Added check_api_connectivity() with 401/403/404/network error categorization
+   - Code Quality: Built successfully, follows project patterns, actionable error messages
+
+2. **Szesnasty/pr-cleaner-ai #17** - Documentation enhancements 🏆⭐
+   - Status: Under Review (Nov 6, 2025)
+   - Impact: **EXCEEDS REQUIREMENTS!** Added 5 practical examples + comprehensive troubleshooting
+   - Learning: Technical writing, user experience design, cross-platform documentation
+   - Significance: Addresses issue #14 with 2x requested content
+   - Details: Monorepo examples, troubleshooting for 7 common issues, platform-specific guides
+
+3. **explodinggradients/ragas #2405** - Fixed SQL metrics documentation 🏆
+   - Status: Under Review (Nov 6, 2025)
+   - Impact: **AI/ML METRICS!** Corrected precision/recall formula mislabeling
+   - Learning: Machine learning metrics, documentation accuracy, technical precision
+   - Significance: ragas is a popular RAG evaluation framework
+   - Details: One-line fix with high clarity impact
+
+4. **kubestellar/kubectl-plugin #109** - Windows installation documentation 🏆
+   - Status: Under Review (Nov 6, 2025)
+   - Impact: **KUBERNETES TOOLING!** Added comprehensive Windows installation guide
+   - Learning: PowerShell scripting, cross-platform documentation, PATH configuration
+   - Significance: Fills documentation gap for Windows users
+   - Details: Automated PowerShell script + manual installation alternative
+
+5. **tysoncung/awesome-biostatistics** - Comprehensive biostatistics resource list 🏆⭐
    - Status: Production-ready ✅ (NEW! Nov 5, 2025)
    - Impact: **FILLS MAJOR GAP!** First comprehensive biostatistics awesome list
    - Learning: Biostatistics ecosystem, clinical trial design, regulatory compliance

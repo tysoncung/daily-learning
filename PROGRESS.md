@@ -3,7 +3,7 @@
 ## 🔥 Current Streak: 21 days (Sept 11-15, 17-25, 30, Oct 25-26, 28, Nov 4-9)
 
 ## 📈 Statistics
-- **Total Contributions**: 255+ (HealthAPI backup script, awesome lists expanded, starred 35+ repos)
+- **Total Contributions**: 260+ (HealthAPI backup, awesome lists: 562+ resources, 30 good first issues found)
 - **PRs Opened**: 27 (24 still active, 1 merged: ragas #2405)
 - **PRs Merged**: 3 ✅
 - **Issues Resolved**: 6 (link validation, platform engineering resources)
@@ -74,12 +74,15 @@ Mo Tu We Th Fr Sa Su
 - [x] Create production-ready project ✅ (n8n-MCP integration demo)
 - [x] Fix a bug ✅ (SMTP validation in Appwrite)
 
-### Recent Achievements (October 2025)
+### Recent Achievements (November 2025)
 - [x] Created n8n-MCP integration demo with full documentation ✅
 - [x] Comprehensive README with 12 professional badges ✅
 - [x] Gained 10 followers in single session (28 → 38) ✅
 - [x] Starred 20+ trending repositories ✅
 - [x] Added 35+ topics across repositories ✅
+- [x] Expanded awesome-biostatistics: +26 resources, 2 new sections (genomics, pharmacometrics) ✅
+- [x] Identified 30 high-quality good first issues (Rust, Go, Kubernetes ecosystem) ✅
+- [x] Awesome lists now 562+ total resources across biostatistics and n8n ✅
 
 ## 📚 Skills Developed
 - GitHub CLI (gh command)
@@ -228,3 +231,21 @@ Mo Tu We Th Fr Sa Su
 - Small fixes can have big impact
 - Consistency matters in CI/CD
 - Daily commits build discipline
+
+## 🎯 High-Priority Opportunities (Nov 2025)
+
+### Kubernetes Ecosystem
+- **cert-manager/cert-manager #8257** - Update helm install (CNCF project)
+- **helm/helm #31520** - Helm 4 debug logging (40K+ stars)
+- **kubetail-org/kubetail #807-808** - CLI improvements
+
+### Perfect Skill Match
+- **HelixDB/helix-db #704** - Database backup via CLI (Rust)
+  - Matches HealthAPI backup script experience
+  - Good first issue in growing database project
+
+### Media/Streaming (Rust)
+- **kixelated/moq** - Multiple issues in Media over QUIC project
+  - #708 TLS certificate rotation
+  - #698 WebTransport sub-protocol
+  - #695 UI improvements

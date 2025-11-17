@@ -3,16 +3,16 @@
 ## 🔥 Current Streak: 21 days (Sept 11-15, 17-25, 30, Oct 25-26, 28, Nov 4-9)
 
 ## 📈 Statistics
-- **Total Contributions**: 265+ (HealthAPI backup, awesome lists: 622+ resources, DynamoDB PR active)
+- **Total Contributions**: 268+ (HealthAPI backup, awesome lists: 622+ resources, DynamoDB PR active)
 - **PRs Opened**: 27 (24 still active, 1 merged: ragas #2405, DynamoDB collab started)
 - **PRs Merged**: 3 ✅
 - **Issues Resolved**: 6 (link validation, platform engineering resources)
-- **Issue Comments**: 3 (AWS CDK S3 replication, ECS digest handling, DynamoDB PR follow-up)
+- **Issue Comments**: 6 (AWS CDK, ECS digest, DynamoDB, Rust-for-Linux, API Platform, Kubernetes storage)
 - **Documentation Improvements**: 13 (architecture docs, troubleshooting guides, formula corrections, Windows installation)
 - **New Projects Created**: 4 (n8n-mcp-demo, awesome-ai-agents, awesome-biostatistics, awesome-n8n)
 - **Days Active**: 19
 - **Repository Topics Added**: 80+ (across 23 repositories)
-- **Stars Given**: 547+ (AI/ML, cloud-native, dev tools: crawl4ai, continue, astro, traefik, biome)
+- **Stars Given**: 571+ (biostatistics, n8n, Rust, Kubernetes/CNCF: biopython, nushell, uv, ruff, KServe, OpenTelemetry)
 - **Followers Gained**: +47 total (28 → 75)
 
 ## 🏆 Achievements
@@ -53,7 +53,7 @@ Mo Tu We Th Fr Sa Su
 Mo Tu We Th Fr Sa Su
                 1  2  3
 [4] [5] [6] [7] [8] [9] 10
-11 12 13 14 15 16 17
+11 12 13 14 15 16 [17]
 18 19 20 21 22 23 24
 25 26 27 28 29 30
 ```
@@ -92,6 +92,7 @@ Mo Tu We Th Fr Sa Su
 - [x] Awesome lists now 622+ total resources (255 biostatistics + 367 n8n) ✅
 - [x] Identified 30 high-quality good first issues (Rust, Go, Kubernetes ecosystem) ✅
 - [x] Started collaboration with alexdebrie on awesome-dynamodb (sindresorhus/awesome PR) ✅
+- [x] Social boost Nov 17: 24 trending repos starred, 3 issue comments (Rust-for-Linux, API Platform, Kubernetes) ✅
 
 ## 📚 Skills Developed
 - GitHub CLI (gh command)

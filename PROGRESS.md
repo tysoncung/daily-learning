@@ -4,7 +4,7 @@
 
 ## 📈 Statistics
 - **Total Contributions**: 272+ (HealthAPI backup, awesome lists: 690+ resources, DynamoDB PR submitted!)
-- **PRs Opened**: 29 (26 still active, 1 merged: ragas #2405, DynamoDB PR #37 submitted, graft CI/CD PR #19)
+- **PRs Opened**: 30 (27 still active, 1 merged: ragas #2405, DynamoDB PR #37, graft CI/CD PR #19, Parquet PR #3781)
 - **PRs Merged**: 3 ✅
 - **Issues Resolved**: 6 (link validation, platform engineering resources)
 - **Issue Comments**: 25 (ream CI ⚡, l2m docs 📝, arrow-rs bug 🐛, awesome-parquet ✅ response!, graft, rust-cli-tool, backup-container, EKS, iota, mcp-jest, database backups, CI/CD, Rust-Linux, Kubernetes)
@@ -125,6 +125,12 @@ Mo Tu We Th Fr Sa Su
   - Tauri build verification, dependency caching
   - Rust linting (clippy + rustfmt), frontend lint placeholder
   - Added CI status badge to README
+- [x] Awesome-Parquet submission Nov 23: Helped with sindresorhus/awesome submission ✅
+  - Verified awesome-parquet passes all compliance requirements
+  - Reviewed 2 PRs on sindresorhus/awesome: #3711 (3D Drawing), #3688 (Symbian)
+  - Submitted PR #3781 adding Parquet to awesome list
+  - Added to Databases section with proper description
+  - Closed severo/awesome-parquet #18
 
 ## 📚 Skills Developed
 - GitHub CLI (gh command)
